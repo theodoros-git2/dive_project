@@ -1,0 +1,69 @@
+.company tr{
+  height: 7rem;
+}
+.company th{
+  width: 150px;
+  
+  color: black;
+  
+}
+.company td{
+  width: 480px;
+  padding-left: 10px;
+  
+}
+
+
+
+
+
+.company{
+  border-collapse: separate;
+  
+}
+
+
+.man {
+
+  text-align: center;
+  margin-top: -70px;
+}
+
+
+
+.company tr:last-child th {
+  border-color: #B1B1B1;
+}
+
+
+.pointc {
+
+  background-color: #FCECEC;
+}
+
+.pointc a {
+
+  color: #4D4D4D;
+}
+
+
+.company label {
+
+  float: right;
+}
+
+.btn_s {
+
+  background-color: #008B8B;
+  font-size: 3rem;
+  color: white;
+  padding: 10px;
+
+}
+
+.btn_s:hover {
+
+    opacity: 0.5;
+}
+
+
